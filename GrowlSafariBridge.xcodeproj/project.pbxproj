@@ -170,6 +170,7 @@
 				A9C0C08A13F2352B00F78413 /* Resources */,
 				A9C0C0C013F23AC500F78413 /* CopyFiles */,
 				A9C0C0B913F2398800F78413 /* ShellScript */,
+				54B2E7411420D50800DECD87 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -215,6 +216,19 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		54B2E7411420D50800DECD87 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "if [ \"$CONFIGURATION\" == \"Release\" ]; then\n  sh \"$SRCROOT/Tools/create_dmg.sh\"\nfi";
+		};
 		A9C0C0B913F2398800F78413 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;

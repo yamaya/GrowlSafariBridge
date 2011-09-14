@@ -14,7 +14,9 @@ I was inspire by [usai/growl-safari-bridge](https://github.com/uasi/growl-safari
 
 ## INSTALL
 
-COMMING SOON.
+* GrowlSafariBridge-XXX.dmg download from https://github.com/yamaya/GrowlSafariBridge/downloads
+* open that .dmg file
+* copy 'GrowlSafariBridge.plugin' to '~/Library/Internet Plug-Ins' directory
 
 ## USAGE
 

@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.tumblr.do-nothing.${PRODUCT_NAME:rfc1034identifier}</string>
+	<string>jp.co.cyberdom.${PRODUCT_NAME:rfc1034identifier}</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -23,7 +23,7 @@
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2011 Cyberdomain,Inc. All rights reserved.</string>
 	<key>WebPluginDescription</key>
-	<string>Growl Safari Bridge</string>
+	<string>GrowlSafariBridge Safari Plugin is Growl notifications from javascript.</string>
 	<key>WebPluginMIMETypes</key>
 	<dict>
 		<key>application/x-growl-safari-bridge</key>

@@ -1,6 +1,6 @@
 #!/bin/sh
 
-REV_ID=`git --git-dir="$SRCROOT/.git" rev-parse --short HEAD`
+REV_ID=`git --git-dir="$SRCROOT/.git" describe --tags`
 VOL_NAME="$PRODUCT_NAME-$REV_ID"
 DMG_NAME="$VOL_NAME.dmg"
 DMG_SRC_DIR="$SRCROOT/DMGSources"

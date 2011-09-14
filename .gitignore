@@ -1,0 +1,8 @@
+tags
+.DS_Store
+build
+*.pbxuser
+*.perspectivev3
+*.mode2v3
+*.xcworkspace
+xcuserdata

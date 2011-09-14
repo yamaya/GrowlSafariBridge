@@ -1,0 +1,1 @@
+#define kGABNotitification @"GrowlSafariBridgeNotification"

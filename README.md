@@ -26,5 +26,5 @@ See "Test.html".
 
 - Xcode 4.1
 
-*I use iPhone SDK :D*
+*I use iOS SDK :D*
 
